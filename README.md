@@ -20,9 +20,9 @@ Primeiro registro: 09/07/2013
 
 Total de ocorrências: 23.895
 
-Feridos graves: 456 pessoas
+Feridos graves: 599 pessoas
 
-Fatalidades: 22 vidas perdidas
+Fatalidades: 41 vidas perdidas
 
 O conjunto de dados cobre os anos:
 
